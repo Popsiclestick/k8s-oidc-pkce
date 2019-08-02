@@ -14,7 +14,6 @@ I decided not to write the client secret and refresh token into the kube config.
 git clone git@github.com:Popsiclestick/k8s-oidc-pkce.git
 go get
 go build
-go install
 ```
 
 ## Run
